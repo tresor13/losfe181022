@@ -1,0 +1,6 @@
+.sticky {
+    width: 100%;
+    position: sticky;
+    height: 100px;
+    background-size: cover;
+}

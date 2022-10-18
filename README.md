@@ -1,4 +1,4 @@
-## Run Locally
+## Run App Locally
 
 Clone the project
 
@@ -15,12 +15,17 @@ Go to the project directory
 Install dependencies
 
 ```bash
-  npm install
-  npm link
+  yarn install
 ```
 
 Start the "local-server"
 
 ```bash
   npm run start
+```
+
+## Run Tests
+
+```bash
+  npm run test
 ```
